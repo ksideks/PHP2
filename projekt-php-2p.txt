@@ -1,0 +1,10 @@
+Projekt: Lista zadań
+
+Założenia
+- dwie tabele do przechowywania danych użytkownika i zadań
+- zadania przypisywane do konkretnego użytkownika
+- wymagane logowanie
+- użytkownik widzi wyłącznie swoje wpisy
+- użytkownik zarządza (dodaje, usuwa, zmienia) wpisami
+- zadanie ma pole status: do zrobienia, zakończone
+- strona ostylowana i responsywna
